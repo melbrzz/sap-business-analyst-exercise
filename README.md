@@ -50,6 +50,3 @@ This step connects business analyst tasks across each SAP Activate phase with sp
 - Data Migration: Supported by SAP S/4HANA Migration Cockpit and SAP Master Data Governance.
 - UAT Support: Supported by SAP Cloud ALM defect management and Solution Manager ITSM.
 
-## Files
-
-- SAP_Activate_Implementation_Framework.csv: Complete spreadsheet containing the full mapping for steps 1, 2, and 3.
