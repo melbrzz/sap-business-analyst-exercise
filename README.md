@@ -59,5 +59,5 @@ This project analyzes the best SDLC approach for adding a cloud-based AI languag
 
 ## Files
 
-- `sap-activate-exercicio.xlsx`: Complete spreadsheet for Project 1 mapping SAP Activate steps, BA activities, and tools.
-- `sap-exercicio2.pdf`: The comparative SDLC analysis document for the HablaMundo AI integration project.
+- `sap-activate - exercício.xlsx`: Complete spreadsheet for Project 1 mapping SAP Activate steps, BA activities, and tools.
+- `sap-exercício2.pdf`: The comparative SDLC analysis document for the HablaMundo AI integration project.
